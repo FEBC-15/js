@@ -588,7 +588,7 @@
 ### Visual Studio Code 설정
 1. VSCode 실행
 2. 프로젝트 선택
-    - File > Open Folder... > febc15/01_js/JS 선택
+    - File > Open Folder... > febc15/js 선택
 3. File > Preferences > Settings > User: 이곳에서 설정한 항목은 모든 프로젝트에 공통 적용
     - "Editor: Font Size": 각자 맞춰서 조절
     - "Files: Auto Save": onFocusChange
