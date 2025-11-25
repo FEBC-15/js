@@ -532,10 +532,10 @@
 <summary><h3>27일차(2025.11.06 목)</h3></summary>
 
 #### 오전(3시간)
-
+- 바닐라 프로젝트 준비 - [1장 프로젝트 안내](https://github.com/FEBC-15/project-vanilla-lionboard/blob/main/docs/guide/01.overview.md#1장-프로젝트-안내)
 
 #### 오후(3시간)
-
+- 바닐라 프로젝트 준비 - [2장 프로젝트 생성에서 배포까지](https://github.com/FEBC-15/project-vanilla-lionboard/blob/main/docs/guide/02.start.md#2장-프로젝트-생성에서-배포까지)
 
 </details>
 
